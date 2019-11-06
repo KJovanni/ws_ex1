@@ -1,0 +1,6 @@
+/dist/*.json
+node_modules
+*.json
+
+
+
